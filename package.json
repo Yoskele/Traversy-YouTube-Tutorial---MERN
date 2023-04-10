@@ -1,0 +1,21 @@
+{
+  "name": "traversy-youtube-tutorial-mern",
+  "version": "1.0.0",
+  "description": "FullStack Mern setGoals Tracks.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node Backend/server.js",
+    "server": "node Backend/server.js"
+  },
+  "author": "Yoskele",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mongoose": "^7.0.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
